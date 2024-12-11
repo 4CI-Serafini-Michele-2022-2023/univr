@@ -21,5 +21,6 @@ void main(){
         for (int k=0; k<lung; k++){
             printf("%d", matrice[k][i]);
         }
-    }printf("\n");
+    }
+    printf("\n");
 }
